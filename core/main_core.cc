@@ -13,7 +13,7 @@
  * - 1：gas He,Ne,Ar,Kr,Xe
  * - 2：liquid Ar,Kr,Xe
  *
- * @section 使用说明
+ * @section description
  * 1. Compilation: Use CMake or compile directly via the command line with `g++`.
  * 2. Execution: Run the generated executable and follow the on-screen prompts.
  * 3. Configuration: Modify the  command-line parameters as needed.
